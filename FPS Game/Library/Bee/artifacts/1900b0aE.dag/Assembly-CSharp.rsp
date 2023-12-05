@@ -356,7 +356,10 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Input/PlayerInput.cs"
+"Assets/Packages/Animated Fantasy Planet/Demo/Script/LookCamera.cs"
 "Assets/Scripts/InputManager.cs"
+"Assets/Scripts/Interactable.cs"
+"Assets/Scripts/PlayerInteract.cs"
 "Assets/Scripts/PlayerLook.cs"
 "Assets/Scripts/PlayerMotor.cs"
 -langversion:9.0
